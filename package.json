@@ -1,0 +1,20 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "My BG",
+  "homepage": "https://github.com/kuzzmy22/fullstack-javascript-project-44#readme",
+  "bugs": {
+    "url": "https://github.com/kuzzmy22/fullstack-javascript-project-44/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuzzmy22/fullstack-javascript-project-44.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
