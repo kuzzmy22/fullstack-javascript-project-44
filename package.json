@@ -7,7 +7,7 @@
     "url": "https://github.com/kuzzmy22/fullstack-javascript-project-44/issues"
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/kuzzmy22/fullstack-javascript-project-44.git"
   },
   "license": "ISC",
