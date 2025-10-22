@@ -1,0 +1,6 @@
+# Устанавливает зависимости проекта через npm ci
+install:
+	npm ci
+#Запускать игру без глобальной установки
+brain-games:
+	node bin/brain-games.js
