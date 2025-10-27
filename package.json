@@ -23,5 +23,9 @@
   "dependencies": {
     "eslint": "^9.38.0",
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.38.0",
+    "globals": "^16.4.0"
   }
 }
