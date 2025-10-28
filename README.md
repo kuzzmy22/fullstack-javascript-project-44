@@ -7,7 +7,8 @@
 
 Привет! Смотрите, как работает моя игра "Проверка на чётность" с крутым стартовым экраном!
 
-[![asciicast](https://asciinema.org/a/ВАШ_НОВЫЙ_ID_АСКИНЕМЫ.svg)](https://asciinema.org/connect/21167b74-335a-4fff-87ce-4ffa2dcf7cf5)
+[![asciicast](https://asciinema.org/a/ВАШ_НОВЫЙ_ID_АСКИНЕМЫ.svg)](https://asciinema.org/a/752236)
+
 
 ---
 
