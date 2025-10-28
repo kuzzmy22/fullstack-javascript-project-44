@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "eslint": "^9.38.0",
+    "figlet": "^1.9.3",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
