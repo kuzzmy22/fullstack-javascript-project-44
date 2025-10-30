@@ -19,3 +19,9 @@
 Привет! Смотрите, как работает моя игра "CALC" 
 
 [![asciicast](https://asciinema.org/a/752613.svg)](https://asciinema.org/a/752613)
+
+## Демонстарция работы проекта НОД (через Евклида)
+
+Смотри как работает игра 
+
+[![asciicast](https://asciinema.org/a/752649.svg)](https://asciinema.org/a/752649)
