@@ -25,3 +25,8 @@
 Смотри как работает игра 
 
 [![asciicast](https://asciinema.org/a/752649.svg)](https://asciinema.org/a/752649)
+
+## Игра "Арифметическая прогрессия"
+
+[![asciicast](https://asciinema.org/a/753449.svg)](https://asciinema.org/a/753449)
+
