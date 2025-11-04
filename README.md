@@ -30,3 +30,5 @@
 
 [![asciicast](https://asciinema.org/a/753449.svg)](https://asciinema.org/a/753449)
 
+## Игра "Простое ли число?"
+[![asciicast](https://asciinema.org/a/753723.svg)](https://asciinema.org/a/753723) 
